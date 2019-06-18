@@ -2,7 +2,7 @@ class students:
 
 	 def __init__(self,name,contact):
 	 	self.name=name
-	 	self.contact=contact hh h 
+	 	self.contact=contact 
 	 def getdata(self):
 	 	 self.name=input("enter the name")
 	 	 self.contact=input("enter contact")
